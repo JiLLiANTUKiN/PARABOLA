@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1358296236 source:c:\users\wew\desktop\parabola\poly.cpp
+	"poly.h"
+	<math.h>
+	<iostream>
+
+1358296284 c:\users\wew\desktop\parabola\poly.h
+	<string>
+
+1358412200 source:c:\users\wew\desktop\parabola\main.cpp
+	<iostream>
+	<math.h>
+	"poly.h"
+	<math.h>
+
+1358353838 source:c:\users\loriano\desktop\effin files\reviewer..homework\parabola\poly.cpp
+	"poly.h"
+	<math.h>
+	<iostream>
+
+1358353886 c:\users\loriano\desktop\effin files\reviewer..homework\parabola\poly.h
+	<string>
+
+1358469802 source:c:\users\loriano\desktop\effin files\reviewer..homework\parabola\main.cpp
+	<iostream>
+	<math.h>
+	"poly.h"
+	<math.h>
+
